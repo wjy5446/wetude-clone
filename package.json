@@ -1,0 +1,22 @@
+{
+  "name": "wetude",
+  "version": "1.0.0",
+  "description": "Cloning Youtude",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjy5446/wetude-clone.git"
+  },
+  "author": "wjy5446",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjy5446/wetude-clone/issues"
+  },
+  "homepage": "https://github.com/wjy5446/wetude-clone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
