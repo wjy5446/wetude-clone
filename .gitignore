@@ -1,5 +1,7 @@
 # Logs
 uploads
+static
+.eslintrc.js
 
 logs
 *.log
