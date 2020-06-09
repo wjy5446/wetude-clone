@@ -1,5 +1,9 @@
 @import "/config/_variable.scss";
+@import "/config/reset.scss";
+@import "main.scss";
+@import "/pages/main.scss";
+@import "/partials/header.scss";
 
 body {
-  background-color: $bgColor;
+  background-color: white;
 }
